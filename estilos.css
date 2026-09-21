@@ -1,14 +1,22 @@
 body {
-    background-color: antiquewhite;
+    background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0px;
+    color: rgb(4, 4, 4);
 }
 h1{
-color: crimson;
+color: blue;
+font-size: 3em;
+}
+
+p{
+    line-height: 1.5;
 }
 header{
     padding: 40px;
     text-align: center;
+    background-color: black;
+color: white;
 }
 main{
     padding: 30px;
